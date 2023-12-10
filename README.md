@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bananalolok
-- 👀 I’m interested in making Discord bot
-- 🌱 I’m currently learning python
-- 📫 You can reach me by direct message me on discord to id Invalid user#3694
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
+- 📫 You can reach me by ...
 
 <!---
 Bananalolok/Bananalolok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
